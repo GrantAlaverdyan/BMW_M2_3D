@@ -6,7 +6,7 @@ source: https://sketchfab.com/3d-models/bmw-m2-394feedd0a0742c595917c7b0f6edcad
 title: BMW M2
 */
 
-import React, { useRef } from "react";
+import React from "react";
 import { useGLTF } from "@react-three/drei";
 import './ModelCss.css'
 
