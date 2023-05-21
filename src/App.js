@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React, { Suspense, useRef } from 'react'
 import { Canvas } from '@react-three/fiber'
@@ -8,7 +7,7 @@ import Models from './components/Models';
 
 
 function App() {
-  const ref = useRef()
+  const ref = useRef();
   return (
     <div className="App">
 
